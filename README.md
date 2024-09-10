@@ -1,6 +1,4 @@
-============
-friendship
-============
+# friendship
 
 friendship is a Django app to facilitate web-based friendship management.
 For each user, they can send, accept, or decline friendship requests.
